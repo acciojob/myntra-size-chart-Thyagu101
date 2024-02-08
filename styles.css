@@ -6,4 +6,10 @@ th, td{
 	border: 1px solid black;
 	padding: 8px;
 }
+th{
+	background-color: #fac73c;
+}
+tr:hover{
+	background-color: #b8b6b0;
+}
 /* Your CSS Code here. */
